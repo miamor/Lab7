@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookSrv", "HookSrv\HookSrv.vcxproj", "{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HookTool", "HookTool\HookTool.vcxproj", "{C984C944-0739-44EC-AC8F-4EB14E425EDD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestApp", "TestApp\TestApp.vcxproj", "{C03957C2-2320-469D-A3B0-A389F6438A85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Debug|x86.ActiveCfg = Debug|Win32
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Debug|x86.Build.0 = Debug|Win32
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Release|x86.ActiveCfg = Release|Win32
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Release|x86.Build.0 = Release|Win32
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Template|x86.ActiveCfg = Release|Win32
+		{292AE038-33E1-4C42-B9E2-7C7D12D9DA68}.Template|x86.Build.0 = Release|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Debug|x86.ActiveCfg = Debug|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Debug|x86.Build.0 = Debug|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Release|x86.ActiveCfg = Release|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Release|x86.Build.0 = Release|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Template|x86.ActiveCfg = Template|Win32
+		{C984C944-0739-44EC-AC8F-4EB14E425EDD}.Template|x86.Build.0 = Template|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Debug|x86.ActiveCfg = Debug|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Debug|x86.Build.0 = Debug|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Release|x86.ActiveCfg = Release|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Release|x86.Build.0 = Release|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Template|x86.ActiveCfg = Template|Win32
+		{C03957C2-2320-469D-A3B0-A389F6438A85}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

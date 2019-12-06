@@ -1,3 +1,7 @@
 ﻿  setwindowshookex.cpp
-  setwindowshookex.vcxproj -> C:\Users\LINH\Downloads\dllinject_hook\setwindowshookex\Debug\setwindowshookex.exe
-  setwindowshookex.vcxproj -> C:\Users\LINH\Downloads\dllinject_hook\setwindowshookex\Debug\setwindowshookex.pdb (Full PDB)
+c:\users\linh\downloads\lab7\dllinject_hook\setwindowshookex\setwindowshookex\setwindowshookex.cpp(10): warning C4129: 'L': unrecognized character escape sequence
+c:\users\linh\downloads\lab7\dllinject_hook\setwindowshookex\setwindowshookex\setwindowshookex.cpp(10): warning C4129: 'D': unrecognized character escape sequence
+c:\users\linh\downloads\lab7\dllinject_hook\setwindowshookex\setwindowshookex\setwindowshookex.cpp(10): warning C4129: 'H': unrecognized character escape sequence
+c:\users\linh\downloads\lab7\dllinject_hook\setwindowshookex\setwindowshookex\setwindowshookex.cpp(10): warning C4129: 'O': unrecognized character escape sequence
+  setwindowshookex.vcxproj -> C:\Users\LINH\Downloads\Lab7\dllinject_hook\setwindowshookex\Debug\setwindowshookex.exe
+  setwindowshookex.vcxproj -> C:\Users\LINH\Downloads\Lab7\dllinject_hook\setwindowshookex\Debug\setwindowshookex.pdb (Full PDB)

@@ -7,7 +7,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	/*
 	 * Load library in which we'll be hooking our functions.
 	 */
-	HMODULE dll = LoadLibraryA("C:\\Users\\LINH\\Downloads\\dllinject_hook\\setwindowshookex\\Debug\\dllinject.dll");
+	HMODULE dll = LoadLibrary(L"C:\dllinjection.dll");
 	if(dll == NULL) {
 		printf("The DLL could not be found.\n");
 		getchar();

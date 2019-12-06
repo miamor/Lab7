@@ -1,0 +1,13 @@
+﻿  ProcessHollowing.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': ignored on left of '' when no variable is declared
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(112): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(118): warning C4477: 'printf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'DWORD'
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(302): warning C4129: '_': unrecognized character escape sequence
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(302): warning C4129: 'P': unrecognized character escape sequence
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(302): warning C4129: 'e': unrecognized character escape sequence
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(302): warning C4129: 'H': unrecognized character escape sequence
+f:\__\process-hollowing\sourcecode\processhollowing\processhollowing.cpp(296): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+  ProcessHollowing.vcxproj -> F:\__\Process-Hollowing\sourcecode\Debug\ProcessHollowing.exe
+  ProcessHollowing.vcxproj -> F:\__\Process-Hollowing\sourcecode\Debug\ProcessHollowing.pdb (Full PDB)
