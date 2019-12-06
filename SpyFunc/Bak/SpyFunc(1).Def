@@ -1,0 +1,3 @@
+LIBRARY SpyFunc ;The name of our library
+
+EXPORTS SpyReplace ;The name of the exported function
